@@ -7,4 +7,4 @@
 3) Analysing ICC T20 Men's World Cup data to find the best playing-11 team (WIP): [Link to Repository](https://github.com/yashdoshi247/Cricket-Analytics)
 
 
-Note: (WIP) represents the projects that are currently undergoing (Work In Progress)
+*Note: (WIP) represents the projects that are currently undergoing (aka Work In Progress)*
